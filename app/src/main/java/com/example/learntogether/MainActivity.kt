@@ -38,7 +38,7 @@ class MainActivity : ComponentActivity() {
 
     @Composable
     fun LearnTogetherText(modifier: Modifier = Modifier) {
-        val image = painterResource(R.drawable.bg_compose_background)
+        git remote add originbg_compose_background)
         Column {
             Row() {
                 Image(
